@@ -1,0 +1,27 @@
+Translate these rules to your custom software
+
+
+Copper
+Min Clearance: 0.635mm / 25mil
+Min track width: .3048mm / 12mil
+Minimum connection width: 0mm/ 0mil
+Minimum annular width: 0.25mm / 9.843mil
+Minimum via dimaeter: 0.8 mm / 31.496mil
+Copper to hole clearance: 0.25mm / 9.843
+Holes
+Copper to edge clearance 0mm / 0mil
+Minimun through hole: 0.3mm / 11.811mil
+Hole to Hole clearance: 0.5mm / 19.685mil
+uVias
+Minimum uVia Diameter: 0.508mm / 20mil
+Minimum uVia Hole: 0.127mm / 5mil
+Silkscreen
+Minimum item clearance: 1.5mm / 59.055mil
+Minimum text height: 1.5mm / 59.055mil
+Minimum text thickness: 0.01mm / .394mil
+
+Arx/circle approximated by segments
+Maximum allowed deciation: .005mm 
+
+Zone Fill strategy
+Minimum thermal relief spoke count: 2
